@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '39189'
     url: http://www.gutenberg.org/2009/agents/39189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38004#Vertebrates-from-the-Barrier-Island-of-Tamaulipas-M-xico
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
